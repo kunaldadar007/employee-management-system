@@ -50,6 +50,7 @@ employee-management-system/
 │
 └── README.md
 
+
 🔐 Authentication & Authorization
 
 Secure login system
@@ -142,3 +143,4 @@ LinkedIn: https://linkedin.com/in/kunaldadar
 📜 License
 
 This project is for educational and portfolio purposes.
+
